@@ -1,0 +1,6 @@
+D:\Data Files\Addition2\Addition2.POP
+D:\Data Files\Binary\Binary.POP
+D:\Data Files\Multiplication\Multiplication.POP
+D:\Data Files\Squared\Squared.POP
+D:\Data Files\Sine_Small\Sine_Small.POP
+D:\Data Files\Fractions\Fractions.POP

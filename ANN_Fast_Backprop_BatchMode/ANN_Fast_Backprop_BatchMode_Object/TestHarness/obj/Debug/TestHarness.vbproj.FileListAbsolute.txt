@@ -1,0 +1,15 @@
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\bin\Debug\TestHarness.exe
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\bin\Debug\TestHarness.pdb
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\bin\Debug\TestHarness.xml
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\bin\Debug\ANN_Fast_Backprop_BatchMode_Object.dll
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\bin\Debug\ANN_Fast_Backprop_BatchMode_Object.pdb
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\bin\Debug\ANN_Fast_Backprop_BatchMode_Object.xml
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.Resources.resources
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.exe
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.xml
+D:\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.pdb
+D:\ANN_Fast_Backprop_BatchMode\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.exe
+D:\ANN_Fast_Backprop_BatchMode\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.xml
+D:\ANN_Fast_Backprop_BatchMode\ANN_Fast_Backprop_BatchMode_Object\TestHarness\obj\Debug\TestHarness.pdb

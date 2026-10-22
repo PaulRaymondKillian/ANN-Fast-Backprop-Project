@@ -1,0 +1,12 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\bin\Debug\ANN_Fast_Backprop_Momentum_Decimal.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\bin\Debug\ANN_Fast_Backprop_Momentum_Decimal.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\bin\Debug\ANN_Fast_Backprop_Momentum_Decimal.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.pdb
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Momentum_Decimal\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.exe
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Momentum_Decimal\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.xml
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Momentum_Decimal\ANN_Fast_Backprop_Momentum_Decimal\obj\Debug\ANN_Fast_Backprop_Momentum_Decimal.pdb

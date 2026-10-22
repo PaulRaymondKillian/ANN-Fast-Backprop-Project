@@ -1,0 +1,18 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\bin\Debug\ANN_Fast_Backprop_Large.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\bin\Debug\ANN_Fast_Backprop_Large.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\bin\Debug\ANN_Fast_Backprop_Large.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.pdb
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.exe
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.xml
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.pdb
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\bin\Debug\ANN_Fast_Backprop_Large.exe
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\bin\Debug\ANN_Fast_Backprop_Large.pdb
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\bin\Debug\ANN_Fast_Backprop_Large.xml
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\obj\Debug\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Fast_Backprop_Large\ANN_Fast_Backprop_Large\obj\Debug\ANN_Fast_Backprop_Large.vbproj.GenerateResource.Cache

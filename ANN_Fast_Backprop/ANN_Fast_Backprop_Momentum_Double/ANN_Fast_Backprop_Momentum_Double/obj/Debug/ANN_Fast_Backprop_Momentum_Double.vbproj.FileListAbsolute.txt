@@ -1,0 +1,12 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\bin\Debug\ANN_Fast_Backprop_Momentum_Double.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\bin\Debug\ANN_Fast_Backprop_Momentum_Double.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\bin\Debug\ANN_Fast_Backprop_Momentum_Double.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.pdb
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Momentum_Double\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.exe
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Momentum_Double\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.xml
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Momentum_Double\ANN_Fast_Backprop_Momentum_Double\obj\Debug\ANN_Fast_Backprop_Momentum_Double.pdb

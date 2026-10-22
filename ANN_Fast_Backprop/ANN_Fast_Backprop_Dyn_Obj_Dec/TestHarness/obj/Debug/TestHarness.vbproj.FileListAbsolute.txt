@@ -1,0 +1,12 @@
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\bin\Debug\TestHarness.exe
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\bin\Debug\TestHarness.pdb
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\bin\Debug\TestHarness.xml
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\bin\Debug\ANN_Fast_Backprop_Dyn_Obj_Dec.dll
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\bin\Debug\ANN_Fast_Backprop_Dyn_Obj_Dec.pdb
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\bin\Debug\ANN_Fast_Backprop_Dyn_Obj_Dec.xml
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\obj\Debug\TestHarness.Resources.resources
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\obj\Debug\TestHarness.exe
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\obj\Debug\TestHarness.xml
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Dyn_Obj_Dec\TestHarness\obj\Debug\TestHarness.pdb

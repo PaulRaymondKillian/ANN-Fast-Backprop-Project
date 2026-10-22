@@ -1,0 +1,12 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\bin\Debug\ANN_Fast_Backprop_Large_Double.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\bin\Debug\ANN_Fast_Backprop_Large_Double.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\bin\Debug\ANN_Fast_Backprop_Large_Double.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.pdb
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Large_Double\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.exe
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Large_Double\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.xml
+D:\ANN_Fast_Backprop\ANN_Fast_Backprop_Large_Double\ANN_Fast_Backprop_Large_Double\obj\Debug\ANN_Fast_Backprop_Large_Double.pdb
