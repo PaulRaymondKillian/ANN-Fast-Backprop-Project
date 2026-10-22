@@ -3,6 +3,10 @@ Apps and stuff written for the ANN Fast Backprop project to create an ANN using 
 
 
 
+Check out the whitepaper listed in the root of this repo for in-depth project details.
+
+
+
 
 
 # # IMPORTANT NOTE # #
